@@ -1,0 +1,3 @@
+﻿  Juego.cpp
+F:\ASIX\M16\UF2\Repositorios\BlackJack\BlackJack\Juego.cpp(122,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> F:\ASIX\M16\UF2\Repositorios\BlackJack\x64\Debug\BlackJack.exe
