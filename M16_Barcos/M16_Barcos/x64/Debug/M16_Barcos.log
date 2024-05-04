@@ -1,0 +1,5 @@
+﻿  Clase.cpp
+  M16_Barcos.cpp
+C:\Users\jansa\OneDrive - Centre d'Estudis Monlau\M16\UF3\M16_Barcos\M16_Barcos\M16_Barcos.cpp(37,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  M16_Barcos.vcxproj -> C:\Users\jansa\OneDrive - Centre d'Estudis Monlau\M16\UF3\M16_Barcos\x64\Debug\M16_Barcos.exe
